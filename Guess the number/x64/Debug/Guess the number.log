@@ -1,0 +1,6 @@
+﻿  source.c
+C:\Users\ycl06\Project\Guess the number\Guess the number\source.c(2,9): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+      C:\Users\ycl06\Project\Guess the number\Guess the number\source.c(1,9):
+      参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  
+  Guess the number.vcxproj -> C:\Users\ycl06\Project\Guess the number\x64\Debug\Guess the number.exe
